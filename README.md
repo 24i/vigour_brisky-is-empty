@@ -2,10 +2,10 @@
 
 <!-- VDOC.badges travis; standard; npm; coveralls -->
 <!-- DON'T EDIT THIS SECTION (including comments), INSTEAD RE-RUN `vdoc` TO UPDATE -->
-[![Build Status](https://travis-ci.org/vigour-io/is-empty.svg?branch=master)](https://travis-ci.org/vigour-io/is-empty)
+[![Build Status](https://travis-ci.org/vigour-io/brisky-is-empty.svg?branch=master)](https://travis-ci.org/vigour-io/brisky-is-empty)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![npm version](https://badge.fury.io/js/brisky-is-empty.svg)](https://badge.fury.io/js/brisky-is-empty)
-[![Coverage Status](https://coveralls.io/repos/github/vigour-io/is-empty/badge.svg?branch=master)](https://coveralls.io/github/vigour-io/is-empty?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/vigour-io/brisky-is-empty/badge.svg?branch=master)](https://coveralls.io/github/vigour-io/brisky-is-empty?branch=master)
 
 <!-- VDOC END -->
 
