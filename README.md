@@ -1,7 +1,5 @@
 # brisky-is-empty
-Checks if a [vigour-base](https://www.npmjs.com/package/vigour-base) object is empty
-- **obj** (*object*) - the object to check for emptiness
-- **returns** (*boolean*) empty - `true` if `obj` is considered empty, `false` otherwise
+Checks if a [brisky-base](https://www.npmjs.com/package/brisky-base) object is empty
 
 [![Build Status](https://travis-ci.org/vigour-io/brisky-is-empty.svg?branch=master)](https://travis-ci.org/vigour-io/brisky-is-empty)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
