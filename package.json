@@ -1,6 +1,6 @@
 {
   "name": "brisky-is-empty",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Checks if a [vigour-base](https://www.npmjs.com/package/vigour-base) object is empty",
   "main": "lib/index.js",
   "scripts": {
